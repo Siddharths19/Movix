@@ -1,7 +1,7 @@
 import { createSlice } from "@reduxjs/toolkit";
 
 export const homeSlice = createSlice({
-    name: "home",
+    name: "Home",
     initialState: {
         url: {},
         genres: {},
